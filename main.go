@@ -1,3 +1,4 @@
+//cleaned structure version
 package main
 
 import "fmt"
